@@ -1,11 +1,19 @@
 <div>
-  <h1 align="center">Olá, Tudo bem? Eu sou a Jenifer 🖖🏽</h1>
-  <p align="center"> Desenvolvedora/estudante de ADS que ama {codar}
-</div>
+ <div align="center">
+ <h1 align="center">Olá, Tudo bem? Eu sou a Jeni </h1>
+ <br>
+ 👩‍💻Formada em Ciências Contábeis que migrou de area por amor em criar soluções que facilitem o dia a dia das pessoas.
+ <br>
+ 💻Cursando o terceiro semestre de Analise e desenvolvimento de Sistemas.
+ <br>
+ 📚Adepta da filosofia do Windows: sempre em atualização haha.  
+ </div>
 
+<br>
+<br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/jenifer-dantas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:jnfrdnts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jenifer-dantas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:jnfrdnts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <div align="center" valign="top"><br>
  
@@ -28,9 +36,9 @@
 </div><br>
 <div align="center">
   
-  ##
+##
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
