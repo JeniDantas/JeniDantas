@@ -12,7 +12,6 @@
  </div>
 
 <br>
-<br>
 <div align="center">
  <h3> 🗺 Onde me encontrar: </h3> 
 <a href="https://www.linkedin.com/in/jenifer-dantas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
