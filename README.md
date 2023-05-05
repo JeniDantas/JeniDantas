@@ -26,14 +26,14 @@ Onde me encontrar:<br>
 ## 📊 GitHub Stats<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JeniDantas&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeniDantas&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br>
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JeniDantas&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-<br><br>
-
 ## 🐍Snake Game<br>
   
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
-</div>
+  
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JeniDantas&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+<br><br>
+
 
 
