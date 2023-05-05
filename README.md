@@ -1,6 +1,6 @@
 Quem eu sou?
 
-🔄Tomei uma decisão difícil, mas que mudou minha vida e migrei de área: de negócios para tecnologia<br>
+🔄Tomei uma decisão difícil, mas que mudou minha vida! Migrei da área de negócios para a tecnologia<br>
 
 E agora, eu sou:<br>
 👩‍💻 Desenvolvedora de Software<br>
