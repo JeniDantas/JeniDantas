@@ -1,44 +1,36 @@
-<div>
- <div align="center">
- <h1 align="center">Olá, Tudo bem? Eu sou a Jeni </h1>
- <br>
-👩‍💻Bacharel em Ciências Contábeis que migrou de área por amor em criar soluções que facilitem o dia a dia das pessoas.
- <br>
-💻Cursando o terceiro semestre de Analise e desenvolvimento de Sistemas na <a href="https://anhanguerapolos.com.br/curso/analise-e-desenvolvimento-de-sistemas/">Faculdade Anhanguera</a>.
- <br>
-🌱Aprendendo mais sobre DATA SCIENCE, PYTHON E DESENVOLVIMENTO EM GERAL.
-  <br>
-📚Adepta da filosofia do Windows: sempre em atualização haha.  
- </div>
+Quem eu sou?
 
-<br>
-<div align="center">
- <h3> 🗺 Onde me encontrar: </h3> 
+🔄Tomei uma decisão difícil - mas uma que mudou minha vida - e mudei minha carreira: de negócios para tecnologia.<br>
+
+E agora, eu sou:<br>
+👩‍💻 Desenvolvedora de Software<br>
+💻 Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na <a href="https://anhanguerapolos.com.br/curso/analise-e-desenvolvimento-de-sistemas/">Faculdade Anhanguera</a><br>
+🌱 Aprendendo mais sobre DATA SCIENCE, PYTHON E DESENVOLVIMENTO EM GERAL<br>
+📚 Adepta da filosofia do Windows: sempre em atualização haha <br>
+🌍 São Paulo, Brasil<br>
+
+## ⚙  Skills<br>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p><br>
+
+## 💬 Social<br>
+Onde me encontrar:<br>
+
 <a href="https://www.linkedin.com/in/jenifer-dantas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:jnfrdnts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-<div align="center" valign="top"><br>
+<a href="mailto:jnfrdnts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
 
- <h1 align="center">Technology Stack</h1>
- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
- <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-</div><br>
 
-<div align="center">
-<a href="https://github.com/jenidantas">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jenidantas&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenidantas&theme=dracula&hide_border=false&&layout=compact"/>
-</a>
-</div>
+## 📊 GitHub Stats:<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JeniDantas&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeniDantas&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br>
 
-</div><br>
-<div align="center">
-  
-##
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JeniDantas&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+<br><br>
+
+## 🐍Snake Game<br>
   
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
