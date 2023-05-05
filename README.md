@@ -23,7 +23,7 @@ Onde me encontrar:<br>
 <a href="mailto:jnfrdnts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
 
 
-## 📊 GitHub Stats:<br>
+## 📊 GitHub Stats<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JeniDantas&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeniDantas&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br>
 
 ## 🏆GitHub Trophies
