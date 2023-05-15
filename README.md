@@ -4,7 +4,7 @@ Quem eu sou?
 
 E agora, eu sou:<br>
 👩‍💻 Desenvolvedora de Software<br>
-💻 Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na <a href="https://anhanguerapolos.com.br/curso/analise-e-desenvolvimento-de-sistemas/">Faculdade Anhanguera</a><br>
+💻 Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na <a href="https://www.unopar.com.br/curso/analise-e-desenvolvimento-de-sistemas/?utm_source=google&utm_medium=cpc&utm_campaign=Unopar::L1::Performance::Cursos::CPA::PIM&gclid=Cj0KCQjwsIejBhDOARIsANYqkD0TrzoxV2y-WYzhmpQn572vw2CXv0alygWRt3NRbqs7TcbqPd-hOeAaArf7EALw_wcB&gclsrc=aw.ds)/">Faculdade Unopar</a><br>
 🌱 Aprendendo mais sobre DATA SCIENCE, PYTHON E DESENVOLVIMENTO EM GERAL<br>
 📚 Adepta da filosofia do Windows: sempre em atualização haha <br>
 🌍 São Paulo, Brasil<br>
