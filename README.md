@@ -6,7 +6,7 @@ E agora, eu sou:<br>
 👩‍💻 Desenvolvedora de Software<br>
 💻 Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na <a href="https://www.anhanguera.com/curso/analise-e-desenvolvimento-de-sistemas/)/">Faculdade Anhaguera</a><br>
 🌱 Aprendendo mais sobre DATA SCIENCE, PYTHON E DESENVOLVIMENTO EM GERAL<br>
-✨Sobre mim: Analítica | Curiosa, Adepta do aprendizado contínuo | Animada | Resiliente | Empática |<br>
+✨Sobre mim: Analítica | Curiosa, Adepta do aprendizado contínuo | Animada |<br>
 🐱 Mãe de pet<br>
 🩰 Bailarina nas horas vagas<br>
 🦹‍♀️ Cosplayer como boa geek que sou<br>
