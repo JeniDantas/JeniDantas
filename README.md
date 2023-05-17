@@ -9,7 +9,7 @@ E agora, eu sou:<br>
 ✨Sobre mim: Analítica | Curiosa, Adepta do aprendizado contínuo | Animada | Resiliente | Empática |<br>
 🐱 Mãe de pet<br>
 🩰 Bailarina nas horas vagas<br>
-🦹‍♀️ Cosplayer como a boa geek que sou<br>
+🦹‍♀️ Cosplayer como boa geek que sou<br>
 🌍 São Paulo, Brasil<br>
 
 ## ⚙  Hard Skills<br>
